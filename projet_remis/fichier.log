@@ -1,0 +1,100 @@
+[20:11:28] {"data":[44,77,66], "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[20:11:29] {"data":[44,77,76], "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[20:11:29] {"data":[44,77,86], "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[20:11:29] {"data":[44,77,96], "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[20:11:29] {"getinfo":"gps", "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[20:11:29] {"getinfo":"gyroscope", "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[20:11:30] {"getinfo":"arduno", "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[20:11:30] {"getinfo":"rasbery", "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[20:11:30] {"data":[44,77,66], "name":"arduno", "id":20201, "poster":false, "state":"INIT_OK"}
+[20:11:30] {"data":[44,77,76], "name":"arduno", "id":20201, "poster":false, "state":"INIT_OK"}
+[20:11:31] {"data":[44,77,86], "name":"arduno", "id":20201, "poster":false, "state":"INIT_OK"}
+[20:11:31] {"data":[44,77,96], "name":"arduno", "id":20201, "poster":false, "state":"INIT_OK"}
+[20:11:31] {"getinfo":"gps", "name":"arduno", "id":20201, "poster":false, "state":"INIT_OK"}
+[20:11:31] {"getinfo":"gyroscope", "name":"arduno", "id":20201, "poster":false, "state":"INIT_OK"}
+[20:11:31] {"getinfo":"arduno", "name":"arduno", "id":20201, "poster":false, "state":"INIT_OK"}
+[20:11:32] {"getinfo":"rasbery", "name":"arduno", "id":20201, "poster":false, "state":"INIT_OK"}
+[20:11:33] {"data":[44,77,66], "name":"arduno", "id":30302, "poster":false, "state":"INIT_OK"}
+[20:11:33] {"data":[44,77,76], "name":"arduno", "id":30302, "poster":false, "state":"INIT_OK"}
+[20:11:33] {"data":[44,77,86], "name":"arduno", "id":30302, "poster":false, "state":"INIT_OK"}
+[20:11:33] {"data":[44,77,96], "name":"arduno", "id":30302, "poster":false, "state":"INIT_OK"}
+[20:11:34] {"getinfo":"gps", "name":"arduno", "id":30302, "poster":false, "state":"INIT_OK"}
+[20:11:34] {"getinfo":"gyroscope", "name":"arduno", "id":30302, "poster":false, "state":"INIT_OK"}
+[20:11:34] {"getinfo":"arduno", "name":"arduno", "id":30302, "poster":false, "state":"INIT_OK"}
+[20:11:34] {"getinfo":"rasbery", "name":"arduno", "id":30302, "poster":false, "state":"INIT_OK"}
+[20:11:40] { "data":[0,0,0], "name":"arduno", "id":10100, "poster":false, "state":"DISCONNECT"}
+[20:11:42] { "data":[0,0,0], "name":"arduno", "id":20201, "poster":false, "state":"DISCONNECT"}
+[20:11:44] { "data":[0,0,0], "name":"arduno", "id":30302, "poster":false, "state":"DISCONNECT"}
+[20:21:29] {"data":[44,77,66], "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[20:24:20] {"data":[44,77,66], "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[20:24:20] {"data":[44,77,76], "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[20:24:21] {"data":[44,77,86], "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[20:24:21] {"data":[44,77,96], "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[20:24:21] {"getinfo":"gps", "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[20:24:21] {"getinfo":"gyroscope", "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[20:24:21] {"getinfo":"arduno", "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[20:24:22] {"getinfo":"rasbery", "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[20:24:32] { "data":[0,0,0], "name":"arduno", "id":10100, "poster":false, "state":"DISCONNECT"}
+[20:25:34] {"data":[44,77,66], "name":"arduno", "id":20201, "poster":false, "state":"INIT_OK"}
+[20:25:34] {"data":[44,77,76], "name":"arduno", "id":20201, "poster":false, "state":"INIT_OK"}
+[20:25:34] {"data":[44,77,86], "name":"arduno", "id":20201, "poster":false, "state":"INIT_OK"}
+[20:25:34] {"data":[44,77,96], "name":"arduno", "id":20201, "poster":false, "state":"INIT_OK"}
+[20:25:35] {"getinfo":"gps", "name":"arduno", "id":20201, "poster":false, "state":"INIT_OK"}
+[20:25:35] {"getinfo":"gyroscope", "name":"arduno", "id":20201, "poster":false, "state":"INIT_OK"}
+[20:25:35] {"data":[44,77,66], "name":"arduno", "id":30302, "poster":false, "state":"INIT_OK"}
+[20:25:35] {"getinfo":"arduno", "name":"arduno", "id":20201, "poster":false, "state":"INIT_OK"}
+[20:25:35] {"data":[44,77,76], "name":"arduno", "id":30302, "poster":false, "state":"INIT_OK"}
+[20:25:35] {"getinfo":"rasbery", "name":"arduno", "id":20201, "poster":false, "state":"INIT_OK"}
+[20:25:35] {"data":[44,77,86], "name":"arduno", "id":30302, "poster":false, "state":"INIT_OK"}
+[20:25:35] {"data":[44,77,96], "name":"arduno", "id":30302, "poster":false, "state":"INIT_OK"}
+[20:25:36] {"getinfo":"gps", "name":"arduno", "id":30302, "poster":false, "state":"INIT_OK"}
+[20:25:36] {"getinfo":"gyroscope", "name":"arduno", "id":30302, "poster":false, "state":"INIT_OK"}
+[20:25:36] {"data":[44,77,66], "name":"arduno", "id":40403, "poster":false, "state":"INIT_OK"}
+[20:25:36] {"getinfo":"arduno", "name":"arduno", "id":30302, "poster":false, "state":"INIT_OK"}
+[20:25:36] {"data":[44,77,76], "name":"arduno", "id":40403, "poster":false, "state":"INIT_OK"}
+[20:25:36] {"getinfo":"rasbery", "name":"arduno", "id":30302, "poster":false, "state":"INIT_OK"}
+[20:25:36] {"data":[44,77,86], "name":"arduno", "id":40403, "poster":false, "state":"INIT_OK"}
+[20:25:37] {"data":[44,77,96], "name":"arduno", "id":40403, "poster":false, "state":"INIT_OK"}
+[20:25:37] {"getinfo":"gps", "name":"arduno", "id":40403, "poster":false, "state":"INIT_OK"}
+[20:25:37] {"getinfo":"gyroscope", "name":"arduno", "id":40403, "poster":false, "state":"INIT_OK"}
+[20:25:37] {"getinfo":"arduno", "name":"arduno", "id":40403, "poster":false, "state":"INIT_OK"}
+[20:25:37] {"getinfo":"rasbery", "name":"arduno", "id":40403, "poster":false, "state":"INIT_OK"}
+[20:25:45] { "data":[0,0,0], "name":"arduno", "id":20201, "poster":false, "state":"DISCONNECT"}
+[20:25:46] { "data":[0,0,0], "name":"arduno", "id":30302, "poster":false, "state":"DISCONNECT"}
+[20:25:48] { "data":[0,0,0], "name":"arduno", "id":40403, "poster":false, "state":"DISCONNECT"}
+[22:09:57] {"data":[44,77,66], "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[22:09:58] {"data":[44,77,76], "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[22:09:58] {"data":[44,77,86], "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[22:09:58] {"data":[44,77,96], "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[22:09:58] {"getinfo":"gps", "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[22:09:58] {"getinfo":"gyroscope", "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[22:09:59] {"getinfo":"arduno", "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[22:09:59] {"getinfo":"rasbery", "name":"arduno", "id":10100, "poster":false, "state":"INIT_OK"}
+[22:10:02] {"data":[44,77,66], "name":"arduno", "id":20201, "poster":false, "state":"INIT_OK"}
+[22:10:02] {"data":[44,77,76], "name":"arduno", "id":20201, "poster":false, "state":"INIT_OK"}
+[22:10:02] {"data":[44,77,86], "name":"arduno", "id":20201, "poster":false, "state":"INIT_OK"}
+[22:10:02] {"data":[44,77,96], "name":"arduno", "id":20201, "poster":false, "state":"INIT_OK"}
+[22:10:02] {"getinfo":"gps", "name":"arduno", "id":20201, "poster":false, "state":"INIT_OK"}
+[22:10:03] {"getinfo":"gyroscope", "name":"arduno", "id":20201, "poster":false, "state":"INIT_OK"}
+[22:10:03] {"getinfo":"arduno", "name":"arduno", "id":20201, "poster":false, "state":"INIT_OK"}
+[22:10:03] {"getinfo":"rasbery", "name":"arduno", "id":20201, "poster":false, "state":"INIT_OK"}
+[22:10:04] {"data":[44,77,66], "name":"arduno", "id":30302, "poster":false, "state":"INIT_OK"}
+[22:10:04] {"data":[44,77,76], "name":"arduno", "id":30302, "poster":false, "state":"INIT_OK"}
+[22:10:04] {"data":[44,77,86], "name":"arduno", "id":30302, "poster":false, "state":"INIT_OK"}
+[22:10:04] {"data":[44,77,96], "name":"arduno", "id":30302, "poster":false, "state":"INIT_OK"}
+[22:10:05] {"getinfo":"gps", "name":"arduno", "id":30302, "poster":false, "state":"INIT_OK"}
+[22:10:05] {"getinfo":"gyroscope", "name":"arduno", "id":30302, "poster":false, "state":"INIT_OK"}
+[22:10:05] {"getinfo":"arduno", "name":"arduno", "id":30302, "poster":false, "state":"INIT_OK"}
+[22:10:05] {"getinfo":"rasbery", "name":"arduno", "id":30302, "poster":false, "state":"INIT_OK"}
+[22:10:06] {"data":[44,77,66], "name":"arduno", "id":40403, "poster":false, "state":"INIT_OK"}
+[22:10:06] {"data":[44,77,76], "name":"arduno", "id":40403, "poster":false, "state":"INIT_OK"}
+[22:10:07] {"data":[44,77,86], "name":"arduno", "id":40403, "poster":false, "state":"INIT_OK"}
+[22:10:07] {"data":[44,77,96], "name":"arduno", "id":40403, "poster":false, "state":"INIT_OK"}
+[22:10:07] {"getinfo":"gps", "name":"arduno", "id":40403, "poster":false, "state":"INIT_OK"}
+[22:10:07] {"getinfo":"gyroscope", "name":"arduno", "id":40403, "poster":false, "state":"INIT_OK"}
+[22:10:08] {"getinfo":"arduno", "name":"arduno", "id":40403, "poster":false, "state":"INIT_OK"}
+[22:10:08] {"getinfo":"rasbery", "name":"arduno", "id":40403, "poster":false, "state":"INIT_OK"}
+[22:10:09] { "data":[0,0,0], "name":"arduno", "id":10100, "poster":false, "state":"DISCONNECT"}
+[22:10:13] { "data":[0,0,0], "name":"arduno", "id":20201, "poster":false, "state":"DISCONNECT"}
+[22:10:16] { "data":[0,0,0], "name":"arduno", "id":30302, "poster":false, "state":"DISCONNECT"}
+[22:10:18] { "data":[0,0,0], "name":"arduno", "id":40403, "poster":false, "state":"DISCONNECT"}
